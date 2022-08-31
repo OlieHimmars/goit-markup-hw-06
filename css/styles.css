@@ -810,7 +810,7 @@ img {
     fill: var(--main-blue);
 }
 
-.form-field:focus .icon-modal {
+.form-field:focus-within > .icon-modal {
     fill: var(--main-blue);
 }
 
